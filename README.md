@@ -180,7 +180,7 @@
     - [Matthew A. Russell, **Mining the Social Web**](https://github.com/ankitkumarbrur/mca-books/raw/master/MCA%20Sem-5/Text%20Analytics/Matthew%20A.%20Russell%20-%20Mining%20the%20social%20web_%20data%20mining%20Facebook%2C%20Twitter%2C%20LinkedIn%2C%20Google%2B%2C%20GitHub%2C%20and%20more%20(2013%2C%20O'Reilly%20Media)%20-%20libgen.lc.pdf)
 
 - **E-Commerce**
-    - [ss](https://github.com/ankitkumarbrur/mca-books/raw/master/MCA%20Sem-5/E-Commerce/Efraim%20Turban%2C%20David%20King%2C%20Jae%20Kyu%20Lee%2C%20Ting-Peng%20Liang%2C%20Deborrah%20C.%20Turban%20(auth.)%20-%20Electronic%20Commerce_%20A%20Managerial%20and%20Social%20Networks%20Perspective%20(2015%2C%20Sp.pdf)
+    - [Efraim Turban, Jae Kyu Lee, Dave Klng, Judy McKay, Peter Marshall, Electronic Commerce: A Managerial Perspective](https://github.com/ankitkumarbrur/mca-books/blob/master/MCA%20Sem-5/E-Commerce/Efraim%20Turban%2C%20David%20King%2C%20Jae%20Kyu%20Lee%2C%20Ting-Peng%20Liang%2C%20Deborrah%20C.%20Turban%20-%20Electronic%20Commerce_%20A%20Managerial%20and%20Social%20Networks%20Perspective.pdf)
     - [Stuart Jacobs, **Engineering Information Security**](https://github.com/ankitkumarbrur/mca-books/raw/master/MCA%20Sem-5/E-Commerce/Stuart%20Jacobs%20-%20Engineering%20Information%20Security_%20The%20Application%20of%20Systems%20Engineering%20Concepts%20to%20Achieve%20Information%20Assurance%20(2011%2C%20Wiley-IEEE%20Press)%20-%20libgen.lc.pdf)
     - [Michael Wooldridge, **An Introduction to MultiAgent Systems**](https://github.com/ankitkumarbrur/mca-books/raw/master/MCA%20Sem-5/E-Commerce/Michael%20Wooldridge%20-%20An%20Introduction%20to%20MultiAgent%20Systems%20(2009)%20-%20libgen.lc.pdf)
 
